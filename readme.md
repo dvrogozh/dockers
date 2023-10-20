@@ -8,7 +8,9 @@ also suite as a reference guide on how to build the software.
 
 | Dockerfile |
 | --- |
-| [intel-gpu-tools](./images/intel-gpu-tools) | 
+| [intel-gpu-tools](./images/intel-gpu-tools/) |
+| [iree-runtime](images/iree/runtime/) |
+| [iree-tf](images/iree/tf/) |
 
 ## Licensing
 
